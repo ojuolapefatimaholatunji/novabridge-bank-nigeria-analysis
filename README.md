@@ -24,10 +24,10 @@ This project was completed as part of the **DataBeginners Week 4 curriculum** �
 ## 📊 Dashboard Preview
 
 ### Page 1 — Transaction & Customer Segment Overview
-![Transaction Overview](assets/dashboard_Page_1.png)
+![Transaction Overview](assets/Page%201.png)
 
 ### Page 2 — Risk & Loan Portfolio Analysis
-![Risk and Loan Analysis](assets/dashboard_Page_2.png)
+![Risk and Loan Analysis](assets/Page%202.png)
 
 ---
 
