@@ -5,9 +5,15 @@
 
 ## 📌 Project Overview
 
-This project delivers a **two-page interactive Excel dashboard** for **NovaBridge Bank Nigeria** — a fictional tier-2 commercial bank operating **10 branches** across **5 geopolitical zones** in Nigeria. The analysis covers **1,050 transaction records** from 2023 to 2024 calendar year spanning **334 unique customers** and **375 unique accounts**.
+A tier -2 Nigerian bank needed to know how its 2024 transactions and loan portfolio were performing across 10 branches.
 
-This project was completed as part of the **DataBeginners Week 4 curriculum** — a WhatsApp-based data analytics learning community — and represents the first end-to-end banking analytics project in my portfolio built entirely in Microsoft Excel using Pivot Tables, SUMIFS, VLOOKUP, data cleaning and interactive dashboard design.
+My question: is the bank pricing its loans according to how risky its borrowers actually are?
+
+I cleaned 1,050 transaction records in Excel, fixing duplicates, mixed currencies and inconsistent labels, then built a two-page dashboard with Pivot Tables.
+
+I found that Agriculture is the largest loan category at ₦994M, yet its borrowers have the lowest average credit score (540) and pay a below-average rate of 20.49%. Equipment borrowers, the strongest at 614, pay 22.47%.
+
+I recommend reviewing Agriculture rates upward and offering rate relief to strong Equipment borrowers, so pricing reflects actual risk.
 
 ---
 
